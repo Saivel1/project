@@ -1,6 +1,6 @@
 # project
 
-Для работы файла main.py понадобяться: 
+Для работы файла main.py понадобятся: 
 
 Python 3.12.4
 https://www.python.org/downloads/
