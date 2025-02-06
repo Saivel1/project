@@ -1,8 +1,8 @@
 install telebot and telebot-ext 
 
-Install 
+1. Install 
 ```pip install telebot```
 
 
-Install 
+2. Install 
 ```pip install python-telegram-bot```
